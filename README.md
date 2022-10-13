@@ -111,3 +111,4 @@ function setupFlip(tick) {
 ## License
 
 MIT License, Enjoy!
+# flip-plugin
